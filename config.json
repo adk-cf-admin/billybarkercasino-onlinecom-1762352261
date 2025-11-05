@@ -1,0 +1,200 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#501F01",
+            "lang-select-color": "#222829",
+            "bg-light": "#501F01",
+            "welcome-bonus-bg": "#2A0D08",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#200A06",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#501F01",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#810000",
+            "yellow": "#B8772A",
+            "yellow-button": "#810000",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#2A0D08",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#2A0D08",
+            "faq-label": "#2A0D08",
+            "bg-footer": "#2A0D08",
+            "copyright": "#e7e7d5",
+            "starColor": "#B8772A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Billy Barker Casino Hotel",
+            "title": "Billy Barker Casino Hotel | Casino, Hotel, Shows & Entertainment in Quesnel",
+            "description": "Discover Billy Barker Casino Hotel \u2014 a historic-style casino offering slots, table games, live shows, and a cozy hotel experience. Enjoy bonuses, tournaments, themed nights, and top entertainment!",
+            "canonical": "billybarkercasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/381",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "billybarkercasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/382",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/383"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/389",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Billy Barker Casino Hotel Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Billy Barker Casino Hotel \u2014 Gaming, Fun & Entertainment in Quesnel",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/390",
+            "imageSizeModifier": 0,
+            "imageYModifier": -2,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/391",
+            "mobileImageSizeModifier": -15,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slot machines and games",
+                "Table games for strategy enthusiasts",
+                "Regular tournaments and gaming promotions",
+                "Cozy atmosphere with 19th-century design",
+                "Restaurant with diverse menu and lounge bar",
+                "Central location near local attractions"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Billy Barker Casino Hotel App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/392",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Billy Barker Casino Hotel App",
+            "mobileGooglePlayImageTitle": "Billy Barker Casino Hotel App",
+            "mobileIosImageTitle": "Billy Barker Casino Hotel App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Billy Barker Casino Hotel",
+                "description1": "",
+                "items": [
+                    "Progressive jackpots up to $50,000 CAD",
+                    "300% bonus up to $1,000 CAD",
+                    "200 free spins for new players"
+                ],
+                "description2": "Billy Barker Casino Hotel is a cozy destination that blends historic charm with modern comfort. Guests can enjoy exciting gaming, comfortable accommodations, and excellent service. The casino features a variety of slot machines and table games, offering a thrilling experience for entertainment seekers. The hotel includes a restaurant and lounge for relaxing after play. Its convenient location makes it a great choice for leisure and fun.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/393",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "A World of Thrill and Comfort",
+                "description": "<p> Billy Barker Casino Hotel is more than just a casino; it\u2019s a full-service destination combining historical charm with modern amenities. The interior reflects the elegance of the 19th century, creating a unique atmosphere for guests who want to enjoy gaming and relaxation in one place. Every visitor can find something special here\u2014from vibrant gaming floors to cozy rooms.\n<\/p>\n<br>\n<p> The casino offers a wide range of entertainment: dozens of modern slot machines, classic reels, and table games such as blackjack and poker. For thrill-seekers, regular tournaments and special promotions add excitement to every visit. Guests can expect professional service and an authentic gaming experience.\n<\/p>\n<br>\n<p> The hotel features several dining and leisure options. The main restaurant serves a diverse menu, including local specialties, while the lounge bar is perfect for an evening cocktail or light snack. Comfortable seating areas provide a relaxing space after a busy day of gaming or sightseeing.\n<\/p>\n<br>\n<p> Billy Barker Casino Hotel is also known for its events. The venue hosts themed nights, live music, and entertainment programs that attract both tourists and locals. Business travelers will appreciate the conference rooms and banquet facilities, making the hotel an ideal choice for corporate gatherings.\n<\/p>\n<br>\n<p> Special attention is given to bonus programs and loyalty rewards. Regular guests enjoy exclusive offers, discounts on accommodations, and extra perks in the casino. The loyalty program allows players to earn points and redeem them for free games or hotel services, making every stay even more rewarding.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting Billy Barker Casino Hotel\n\n<\/h3>\n\n<p> Before visiting the casino, guests must follow certain rules to ensure a safe and enjoyable experience. Key requirements include age, dress code, and proper conduct.\n<\/p>\n<br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">General Rules<\/h4>\n            <ul>\n            <li>\u2022 Entry allowed for guests 19 years and older.\n<\/li>\n            <li>\u2022 No entry if visibly intoxicated or under influence.\n\n<\/li>\n            <li>\u2022 Photo and video recording in gaming areas is restricted.\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n            <ul>\n            <li>\u2022 Neat attire required: torn clothes or beachwear prohibited.\n<\/li>\n            <li>\u2022 Footwear mandatory: barefoot entry not allowed.\n<\/li>\n            <li>\u2022 Sportswear permitted only in non-gaming areas.\n\n<\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions of Entry<\/h4>\n        <ul>\n            <li>\u2022 Valid ID may be required at the entrance.\n<\/li>\n            <li>\u2022 Management reserves the right to refuse service for rule violations.\n<\/li>\n            <li>\u2022 Maintain courtesy and respect toward other players.\n\n<\/li>\n        <\/ul>\n        <br>\n\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEncore Rewards Loyalty Program at Billy Barker Casino Hotel\n<\/h3>\n\n<p> Encore Rewards is the official loyalty program at Billy Barker Casino Hotel, designed to reward players for their gaming activity. Membership is free, and all new members start at Single Diamond level. The program has three tiers, offers points for slot play, and provides access to exclusive promotions. Points can be redeemed for gaming credits, gifts, and special offers. All accumulated points are valid for 12 months.\n<\/p>\n<br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Advantages\n\n<\/h4>\n         <ul>\n            <li>\u2022 Free and easy sign-up.\n<\/li>\n            <li>\u2022 Earn points for every slot wager.\n<\/li>\n            <li>\u2022 Access to exclusive promotions and contests.\n<\/li>\n<li>\u2022 Personalized offers and birthday gifts.\n<\/li>\n<li>\u2022 Higher tiers unlock more rewards.\n\n<\/li>\n\n        <\/ul>\n        <br>\n\n   \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses and Numbers\n\n<\/h4>\n        <ul>\n            <li>\u2022 1 point per $1.00 wagered on slots.\n<\/li>\n            <li>\u2022 Birthday gift for members.\n<\/li>\n            <li>\u2022 Exclusive contests and promotions for club members.\n<\/li>\n<li>\u2022 Points redeemable for gaming credits and prizes.\n\n<\/li>\n        <\/ul>\n        <br>\n\n   \n    <\/div>\n<\/div>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Tiers and Requirements\n<\/h4>\n<p> 1. Single Diamond\n<\/p>\n        <ul>\n            <li>\u2022 Entry level for all members.<\/li>\n            <li>\u2022 Requirement: 0\u20137,499 points.<\/li>\n        <\/ul><br>\n<p> 2. Double Diamond<\/p>\n\n        <ul>\n            <li>\u2022 Mid-tier status.<\/li>\n            <li>\u2022 Requirement: 7,500 points (\u2248 $7,500 slot play).<\/li>\n        <\/ul><br>\n<p> 3. Triple Diamond<\/p>\n\n        <ul>\n            <li>\u2022 Top-tier status.<\/li>\n            <li>\u2022 Requirement: 45,000 points (\u2248 $45,000 slot play).\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Billy Barker Casino Hotel",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpecial Bonuses and Offers at Billy Barker Casino Hotel\n<\/h3>\n\n<p> Billy Barker Casino Hotel offers a variety of gaming bonuses, jackpots, seasonal events, and entertainment promotions beyond the standard loyalty program.<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Daily Slot Bonuses<\/h4>\n        <ul>\n            <li>\u2022 Free spins on selected machines.\n<\/li>\n            <li>\u2022 Example: 10 free spins for deposits over $20.\n\n<\/li>\n        <\/ul>\n        <br>\n       <h4 style = \"font-weight: bold; font-size: 24px;\">Big Jackpot Wins<\/h4>\n        <ul>\n            <li>\u2022 Progressive jackpots on popular slots.\n<\/li>\n            <li>\u2022 Example: payouts up to $50,000 on Mega Jackpot slots.\n\n<\/li>\n        <\/ul>\n        <br>\n       <h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal Tournaments<\/h4>\n        <ul>\n            <li>\u2022 Slot and table game competitions.\n<\/li>\n            <li>\u2022 Example: $5,000 prize pool in winter tournament.\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Themed Nights<\/h4>\n         <ul>\n            <li>\u2022 Halloween Party, Christmas Casino Night.\n<\/li>\n            <li>\u2022 Example: $25 free chips for participants.\n\n<\/li>\n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Gift Draws<\/h4>\n        <ul>\n            <li>\u2022 Weekly lotteries for active players.\n<\/li>\n            <li>\u2022 Example: chance to win a weekend getaway package.\n\n<\/li>\n        <\/ul>\n        <br>\n       <h4 style = \"font-weight: bold; font-size: 24px;\">Happy Hours<\/h4>\n        <ul>\n            <li>\u2022 Double points or bets during set hours.\n<\/li>\n            <li>\u2022 Example: x2 on all bets from 4 PM to 6 PM.\n\n<\/li>\n        <\/ul>\n        <br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Exclusive Offers<\/h4>\n        <ul>\n            <li>\u2022 Free tickets to live shows for hotel guests.\n<\/li>\n            <li>\u2022 Example: complimentary entry to live music night.\n<\/li>\n        <\/ul>\n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Billy Barker Casino Hotel\n<\/h3>\n\n<p> Billy Barker Casino offers a wide range of gaming options for both beginners and seasoned players. Slot machines are the main attraction, but table games provide strategic challenges for enthusiasts. The casino frequently updates its machines to keep the experience fresh. Regular promotions and tournaments add excitement and variety. The atmosphere is friendly and welcoming, with staff ready to assist with game rules.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main Games<\/h4>\n\n\n        <ul>\n            <li>\u2022 Slot Machines \u2014 classic and modern themes.\n<\/li>\n            <li>\u2022 Blackjack \u2014 a favorite for strategy lovers.\n<\/li>\n            <li>\u2022 Poker \u2014 multiple variations, including Texas Hold\u2019em.\n<\/li>\n            <li>\u2022 Roulette \u2014 European and American versions.\n<\/li>\n\t    <li>\u2022 Video Poker \u2014 a mix of slots and cards.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Billy Barker Casino Hotel\n<\/h3>\n\n<p> Billy Barker Casino Hotel offers flexible betting options to suit every player\u2019s style. Slots start at very low denominations, while table games provide higher stakes for those seeking more excitement. This range makes the casino ideal for both beginners and seasoned gamblers.<\/p>\n<br>\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#2A0D08; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.25 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $25 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $100 <\/td>\n                <\/tr>\n    \n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$200\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Billy Barker Casino Hotel\n<\/h3>\n\n<p> Billy Barker Casino Hotel is more than just a gaming venue\u2014it\u2019s a hub for entertainment in downtown Quesnel. The property hosts regular themed nights, live music events, and special shows that create a festive atmosphere for guests. Its spacious showroom and banquet halls are ideal for weddings, corporate gatherings, and private parties. With its historic charm and welcoming vibe, every event feels unique and memorable.\n<\/p>\n<br>\n<p> Regular entertainment programs are a highlight. The lounge features live music evenings, while holiday-themed events like Christmas Casino Night and Halloween Party bring extra excitement. Guests can enjoy delicious food, cocktails, and a relaxed setting. Upscale banquet rooms are available for conferences and celebrations, making the hotel a versatile venue for both leisure and business.\n<\/p>\n<br>\n<p> Billy Barker Casino Hotel also offers a taste of nightlife. The lounge stays open late, serving cocktails and snacks, while the showroom transforms into a stage for concerts and entertainment programs. It\u2019s the perfect destination for those who want to combine gaming with vibrant social experiences.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment Highlights<\/h4>\n\n\n        <ul>\n            <li>\u2022 Live Music Nights \u2014 regular performances by local artists in the lounge.\n<\/li>\n            <li>\u2022 Themed Parties \u2014 Halloween Party, Christmas Casino Night with free chips and contests.\n<\/li>\n            <li>\u2022 Seasonal Shows \u2014 summer outdoor parties with music and drinks.\n<\/li>\n            <li>\u2022 Banquet Events \u2014 weddings, corporate functions, private celebrations in elegant halls.\n<\/li>\n\t    <li>\u2022 Conferences and Meetings \u2014 modern spaces with catering options.\n<\/li>\n <li>\u2022 Happy Hour at the Bar \u2014 discounts on drinks and snacks during select hours.\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Bars, Restaurants, and Relaxation at Billy Barker Casino Hotel\n<\/h3>\n\n<p> Billy Barker Casino Hotel offers guests more than gaming\u2014it\u2019s a complete experience of comfort and fine dining. The hotel features a restaurant serving local and international dishes, as well as a cozy lounge bar perfect for evening gatherings. Its unique blend of historic charm and modern design creates an inviting atmosphere for relaxation after play.\n<\/p>\n<br>\n<p> For those planning an extended stay, comfortable rooms with modern amenities are available. Guests can unwind in the lounge area, enjoy live music, or sip cocktails at the bar. The casino also hosts special events and themed nights, adding variety and excitement to every visit.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Relaxation Spots<\/h4>\n\n\n        <ul>\n            <li>\u2022 Billy Barker Restaurant \u2014 local cuisine, breakfast, lunch, and dinner.\n<\/li>\n            <li>\u2022 Lounge Bar \u2014 cocktails, snacks, and live music evenings.\n<\/li>\n            <li>\u2022 Hotel Rooms \u2014 modern comfort with Wi-Fi, TV, and seating area.\n<\/li>\n            <li>\u2022 Showroom \u2014 venue for concerts, banquets, and corporate events.\n<\/li>\n\t    <li>\u2022 Lounge Area \u2014 cozy seating for relaxation after gaming.\n\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Is prior registration required to enter the casino?",
+                    "answer": "No, casino access for adult guests is open without prior registration.\n"
+                },
+                {
+                    "title": "What languages are available for guest service?",
+                    "answer": "The primary service language is English; staff are accustomed to working with tourists and assist guests with basic questions.\n"
+                },
+                {
+                    "title": "What are the operating hours for the casino, restaurant, and lounge?",
+                    "answer": "The casino is usually open from 10:00 AM until late evening, while the restaurant and lounge operate from morning until night, with extended hours on Fridays and Saturdays.\n"
+                },
+                {
+                    "title": "What are the \u201cquiet\u201d hours and when is it least crowded?",
+                    "answer": "Weekdays and daytime hours are generally less busy than Friday and Saturday evenings. Actual crowd levels depend on the season and event schedule.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/394",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Billy Barker Casino Hotel"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
